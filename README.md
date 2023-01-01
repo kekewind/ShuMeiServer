@@ -1,6 +1,6 @@
 # 数美验证码服务 VX:Code-Bin
 
-验证码 数美验证码 ShuMei ishumei 数美API api服务
+验证码 数美验证码 ShuMei ishumei 数美API api服务 滑块 点选 图标 语序 空间推理
 
 * [数美验证码](###API截图)
     * [滑块](###API截图)
